@@ -1,6 +1,4 @@
 # SampleTheme
 HTML5, CSS3
 
-<p align="center">
-  <img width="460" height="300" src="file:///C:/Users/Yavuz/Desktop/BasicTheme/index.html">
-</p>
+![screenshot](https://user-images.githubusercontent.com/11810774/39303339-6eb3c9a0-495e-11e8-874a-daeef7c6ebc7.png)
